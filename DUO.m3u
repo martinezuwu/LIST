@@ -52,8 +52,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,MUSICA:Portal Foxmix (Chile)
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1,MUSICA:Futuro 88.9 (Chile)
-http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 | HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1,DW
@@ -74,14 +72,10 @@ http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,Sobrenatural Tv
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1,Comunion TV
-http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,CHILE:Pinguino TV (Opt-1)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 #EXTINF:-1,LATINO:CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,Latinos:TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
 #EXTINF:-1,NOTICIAS:Arirang | HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,NOTICIAS:NOTV 41 New Orleans - Louisiana | HD
@@ -104,8 +98,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.inf
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?
 #EXTINF:-1,Tivikom Ulan-Udje
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 #EXTINF:-1, Telemax HD
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:-1, CANAL 26
