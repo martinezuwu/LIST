@@ -66,46 +66,18 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 | HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1,ARGENTINA:Litus | HD
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1,UN3
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0064
 #EXTINF:-1,DW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-#EXTINF:-1,CGTN Español
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
-#EXTINF:-1,5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-#EXTINF:-1,ST Santa Fe:5RTv - CTV - Recreo - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0193
-#EXTINF:-1,ME Mendoza:Acequia - 29.1TV - Mendoza  TV - ME Mendoza
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0158
-#EXTINF:-1,5RTv RECREO SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0200
-#EXTINF:-1,CANAL 2 de Jujuy
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0151
 #EXTINF:-1,ARGENTINA:Canal 26 Buenos Aires (Opt-2)
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1,ARGENTINA:Radio TV Neuquen
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1,Digital 15
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
-#EXTINF:-1,Telemicro 5
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
-#EXTINF:-1,Tv Senado 2 SD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 #EXTINF:-1,PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,FS1
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1,Hotmixradio 80´S
-http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1,Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
-#EXTINF:-1,VTV Valle de Aconcagua
-http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,VTV  HD
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 #EXTINF:-1,Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1,El Pinguino Tv Punta Arenas
@@ -114,60 +86,36 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgrat
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1,Comunion TV
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,CTNi
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,CHILE:Pinguino TV (Opt-1)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 #EXTINF:-1,LATINO:CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,Latinos:TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
-#EXTINF:-1,NOTICIAS:NHK World (Alt)| HD
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-#EXTINF:-1,NOTICIAS:France 24 | HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,NOTICIAS:Arirang | HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,NOTICIAS:NOTV 41 New Orleans - Louisiana | HD
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1,NOTICIAS:London Live | HD
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:-1,PERU:Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1,ESPAÑA:TV Galicia America | SD
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,ESPAÑA:TV Galicia Europa | SD
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,BRASIL:SBT | HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1,TV Noticias
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,MUSICA:Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,MUSICA:Music Top Argentina
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,TELEMICRO
-http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png",TELEMICRO
-#EXTINF:-1,telemundo
-http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png"
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?
-#EXTINF:-1,Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1,Throwback
-http://i.imgur.com/BTiGp2B.png?tecnotv",Throwback
 #EXTINF:-1,Tivikom Ulan-Udje
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:-1,TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:-1,Today
-http://i.imgur.com/BTiGp2B.png?tecnotv",Today
-#EXTINF:-1,Toddler
-http://i.imgur.com/BTiGp2B.png?tecnotv",Toddler
-#EXTINF:-1,Tr3ce
-http://vignette4.wikia.nocookie.net/logopedia/images/0/03/Canal_Tr3ce_HD.png/revision/latest?cb=20151214194315,Tr3ce
 #EXTINF:-1, Telemax HD
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:-1, CANAL 26
@@ -180,8 +128,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1, 7 SQCS Chetumal
 http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
-#EXTINF:-1, Capital 21 Mexico City
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&amp;set-cc-attribute=cc
 #EXTINF:-1, 24/7 Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1, TV PERU
@@ -196,84 +142,20 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1, La Mega Mundial (EU)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1, Canal 4 | SD
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1, TVN Se&ntilde;al de Pruebas | HD
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-1, Cool 103.7 (Radio con Video) | HD
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 #EXTINF:-1, MicroVision Canal 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1, MUSICA:Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_wZoiper Click2Dial627639048ES.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1, CANAL WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1, MUSICA:VTV HD
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1, Videomix:SheepMix
-https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
-#EXTINF:-1, Videomix:Yearmix2009
-https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
-#EXTINF:-1, Videomix:Yearmix2010
-https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
-#EXTINF:-1, Videomix:Yearmix2011
-https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
-#EXTINF:-1, Videomix:Yearmix2013
-https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
 #EXTINF:-1, wowtv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1, Tjumenskoe Vremja
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1, TRO Soyuz
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1, Tropicales
-http://i.imgur.com/BTiGp2B.png?tecnotv",Tropicales
 #EXTINF:-1, ATVHD
 http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1, http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/CantinazoTV.jpg"
-http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/CantinazoTV.jpg"
-#EXTINF:-1, http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png"
-http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png"
-#EXTINF:-1, http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png"
-http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png"
-#EXTINF:-1, http://i.imgur.com/SYPYeHt.jpg"
-http://i.imgur.com/SYPYeHt.jpg"
-#EXTINF:-1, http://3.bp.blogspot.com/-MxFVv8kb3V4/VOY5A8D-VaI/AAAAAAAAAPA/hsjTaa44_3s/s1600/icon.png"
-http://3.bp.blogspot.com/-MxFVv8kb3V4/VOY5A8D-VaI/AAAAAAAAAPA/hsjTaa44_3s/s1600/icon.png"
-#EXTINF:-1, http://i.imgur.com/6FepRzn.png"
-http://i.imgur.com/6FepRzn.png"
-#EXTINF:-1, https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg"
-https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg"
-#EXTINF:-1, https://yt3.ggpht.com/-o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-https://yt3.ggpht.com/-o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-#EXTINF:-1, https://i.imgur.com/kLzKyaA.jpg"
-https://i.imgur.com/kLzKyaA.jpg"
-#EXTINF:-1, https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-#EXTINF:-1, http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png"
-http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png"
-#EXTINF:-1, https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png"
-https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png"
-#EXTINF:-1, https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-#EXTINF:-1, https://yt3.ggpht.com/-3y0PLzhwrig/AAAAAAAAAAI/AAAAAAAAAAA/u423NXvcb_4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-https://yt3.ggpht.com/-3y0PLzhwrig/AAAAAAAAAAI/AAAAAAAAAAA/u423NXvcb_4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-#EXTINF:-1, https://yt3.ggpht.com/-9aM1tcTrdZE/AAAAAAAAAAI/AAAAAAAAAAA/WFqCRbAPIXI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-https://yt3.ggpht.com/-9aM1tcTrdZE/AAAAAAAAAAI/AAAAAAAAAAA/WFqCRbAPIXI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-#EXTINF:-1, http://i.imgur.com/rabhP7N.jpg"
-http://i.imgur.com/rabhP7N.jpg"
-#EXTINF:-1, https://4.bp.blogspot.com/-Tjg8iyh-qLs/V8ihQ6Y-wtI/AAAAAAAAGtk/85HqPYSJJQg5a609R8gQczSrH80pq-SdACLcB/s1600/Los-Ilusionistas-21.jpg"
-https://4.bp.blogspot.com/-Tjg8iyh-qLs/V8ihQ6Y-wtI/AAAAAAAAGtk/85HqPYSJJQg5a609R8gQczSrH80pq-SdACLcB/s1600/Los-Ilusionistas-21.jpg"
-#EXTINF:-1, https://1.bp.blogspot.com/-mYN8Q9Wu4Ms/VtCOUv_HdSI/AAAAAAAAIVI/xZoGse5_95g/s1600/armoniadig.jpg"
-https://1.bp.blogspot.com/-mYN8Q9Wu4Ms/VtCOUv_HdSI/AAAAAAAAIVI/xZoGse5_95g/s1600/armoniadig.jpg"
-#EXTINF:-1, https://i.imgur.com/KOkrgKs.png"
-https://i.imgur.com/KOkrgKs.png"
-#EXTINF:-1, http://2.bp.blogspot.com/_744KXmFCyEo/S5vk5r3KowI/AAAAAAAAAIQ/-bJJYN13CK8/w1200-h630-p-nu/agro_canal.png"
-http://2.bp.blogspot.com/_744KXmFCyEo/S5vk5r3KowI/AAAAAAAAAIQ/-bJJYN13CK8/w1200-h630-p-nu/agro_canal.png"
-#EXTINF:-1, http://i.imgur.com/u7R3qcx.png"
-http://i.imgur.com/u7R3qcx.png"
-#EXTINF:-1, http://i.imgur.com/Kkj5IF9.png"
-http://i.imgur.com/Kkj5IF9.png"
 #EXTINF:-1,MEXICO:Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,MEXICO:Multimedios
@@ -284,30 +166,16 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1,MEXICO:Multimedios Laguna
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1,Tv Maná
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0117
 #EXTINF:-1,6 TV - Crespo - ER Entre Rios
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
-#EXTINF:-1,AR:Play - 98.1 TV - Marcos Juarez - CO Cordoba
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
 #EXTINF:-1,VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1,America SD
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1,Campus HD
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
-#EXTINF:-1,Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,RecordTV Mozambique
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-#EXTINF:-1,Rede Minas
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 #EXTINF:-1,TVN
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1,TV INES
-http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
-#EXTINF:-1,Radio TeleBoston
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 #EXTINF:-1,Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,Channel 7
