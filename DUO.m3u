@@ -414,60 +414,14 @@ http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?C
 http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8?CANALANDRONALTAS
 #EXTINF:-1, TV SOL HD
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1, TV VITÃ“RIA
-http://tvvitoria.viacast.tv:80/livepl/tvvitoria_2_original.m3u8?CANALANDRONALTAS
-#EXTINF:-1, Cool 103.7 HD
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8?CANAISGLAU?CANALANDRONALTAS
 #EXTINF:-1, PortalFoxMix Tv
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1, Kiss FM
-http://kissfm.live24.gr/kiss2111?CANAISGLAU?CANALANDRONALTAS
-#EXTINF:-1, FM Love Classics
-http://strm112.1.fm/loveclassics_mobile_mp3?CANALANDRONALTAS
-#EXTINF:-1, Radio UFU FM MG
-http://webradio.dr.ufu.br:8000/live?CANALANDRONALTAS
 #EXTINF:-1, Catve HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1, CATVE HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1, FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1, INFOR BAHIA WEB TV
-http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
-#EXTINF:-1, MASTER TV
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1, RÃ¡dio Princesa FM
-http://noasrv.caster.fm:10124/stream
-#EXTINF:-1, RFI
-http://live02.rfi.fr/rfibrasil-64k.mp3
-#EXTINF:-1, Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:-1, Pagode
-http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:-1, Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:-1, Lounge
-http://6d9a.webradio.upx.net.br:9064/stream
-#EXTINF:-1, Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream
-#EXTINF:-1, Festa
-http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:-1, MÃºsica ClÃ¡ssica
-http://6d9a.webradio.upx.net.br:9970/stream
-#EXTINF:-1, New Rock
-http://6d9a.webradio.upx.net.br:8028/stream
-#EXTINF:-1, Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:-1, Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream
-#EXTINF:-1, SBT PE SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
-#EXTINF:-1, Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?AndreOid
-#EXTINF:-1, TV Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1, TV Igreja Mundial
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1, Rede Brasil De ComunicacÃ£o PE HD
 http://rbc.directradios.com:1935/rbc/rbc_720p/Playlist.m3u8
 #EXTINF:-1, Rede Brasil De ComunicacÃ£o PE SD
@@ -482,38 +436,12 @@ http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDRO
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1, Rede Brasil DE
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1, Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1, Vibe FM
-http://servidor36.brlogic.com:8180/live
-#EXTINF:-1, Fanatica FM
-http://noasrv.caster.fm:10156/live
-#EXTINF:-1, Vagalume Vibe
-https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
-#EXTINF:-1, Vagalume Funk
-https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
-#EXTINF:-1, Vagalume Sertanejo Hits
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-#EXTINF:-1, SBT PE INTERIOR
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?CANAISGLAU
 #EXTINF:-1, TV Santa Cecilia (Santos-SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?LISTASGLAU
 #EXTINF:-1, REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?LISTANG2000IPTV
 #EXTINF:-1, TV DESTAK
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTANG2000IPTV
-#EXTINF:-1, TROPICAL SAT FM (JUAZEIRO-BA)
-http://directradios.net:9047/;
-#EXTINF:-1, JOVEM PAN FM
-http://svrstream2.svreua.com:8380/;
-#EXTINF:-1, BEAT98 FM
-http://streaming13.hstbr.net:8072/live
-#EXTINF:-1, ATLANTIDA FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=1838501070
-#EXTINF:-1, GUAIABA FM
-http://cast4.audiostream.com.br:8007/app
-#EXTINF:-1, ITAPOAN FM
-http://streaming.livecenter.com.br:9300/stream/1/
 #EXTINF:-1, Baden TV [Alemanha]
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1, Kontra TV [Grecia]
@@ -522,64 +450,16 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1, Mir 24 [Russia]
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1, TVT HD
-http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1, SBT PE Interior
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1, Rede Brasil DE HD
 http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1, Sky life TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1, Portla FoxMix TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w1496592366.m3u8
-#EXTINF:-1, Retro Music TV
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?
-#EXTINF:-1, TV Escola [720p]
-http://liveabr.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
-#EXTINF:-1, Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1, Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream?
-#EXTINF:-1, Festa
-http://6d9a.webradio.upx.net.br:9070/stream?
-#EXTINF:-1, Lounge
-http://6d9a.webradio.upx.net.br:9064/stream?
-#EXTINF:-1, MÃƒÂºsica ClÃƒÂ¡ssica
-http://6d9a.webradio.upx.net.br:9970/stream?
-#EXTINF:-1, New Rock
-http://6d9a.webradio.upx.net.br:8028/stream?
-#EXTINF:-1, Pagode
-http://6d9a.webradio.upx.net.br:9061/stream?
-#EXTINF:-1,INFO FILM MAX TV
-http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-#EXTINF:-1, HRT 1
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,HRT 3
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1,HRT 4
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1,RTL
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1,HBO (Asia)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1,Pluto TV Black Cinema
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,Pluto TV Classic Movies
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,Mello TV
-https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
-#EXTINF:-1, Luxury
-http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Beach TV - 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1,Beach TV - Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,RTCG Sat (L2)
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/playlist.m3u8
 #EXTINF:-1,Campustv
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
 #EXTINF:-1,Canale 7
@@ -588,34 +468,20 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1,Grand Lille TV
 http://str81.creacast.com/grandlilletv/high/playlist.m3u8
-#EXTINF:-1,Alsace20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1,BX1
 https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
 #EXTINF:-1, HD (rus)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1,Kino zakaz 3
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Kecskeméti Televízió
-http://rtmp1.40e.hu:8000/live/ktv.m3u8
-#EXTINF:-1,Williams TV
-http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1,KRONEHIT TV HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1,Radio Number One TV
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1,CANAL 9 TV SUR CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 #EXTINF:-1,CANAL 88 STEREO CR
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 #EXTINF:-1,CANAL NICOYA TV 36 CR
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
-#EXTINF:-1,PUÑAL TV HD
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 #EXTINF:-1, Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1,VTV Aconcaga-
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1, El Pingüino | HD | Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 #EXTINF:-1,SKY FOLK
@@ -624,32 +490,8 @@ http://us.live.skyfolk.mk/live.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1, Enlace Juvenil
 http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
-#EXTINF:-1, Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1,PROMAR.TV
 http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
-#EXTINF:-1,TOP LATINO RADIO PERU
-http://online.radiodifusion.net:8028/stream/1/
-#EXTINF:-1,101.5 FM
-http://cp2.lorini.net:2020/venpzo
-#EXTINF:-1,WAO 92.3 FM CR
-http://streamer.teknoweb.co/s98074e491/listen
-#EXTINF:-1,RADIO DISNEY CR
-http://ic.streann.com:8000/disneycostarica
-#EXTINF:-1,Radio María 100.7 FM Costa Rica
-http://dreamsiteradiocp2.com:8044/;stream/1
-#EXTINF:-1,original-stereo-panama
-http://rosetta.shoutca.st:8931/stream/1/
-#EXTINF:-1,Culture Mixx Radio JAMAYCA
-http://edge.mixlr.com/channel/euckm
-#EXTINF:-1,Radio PONdENDS JAM
-http://198.178.123.20:7000/stream/1/
-#EXTINF:-1,Rádio MegaSom
-http://centova17.ciclanohost.com.br:8341/;stream.mp3
-#EXTINF:-1,FLOW RADIO.FM
-http://radiohd.streaminghd.co:7014/live
-#EXTINF:-1,24 TV CULTURALES
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
 #EXTINF:-1,TV PERU 7.3
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,IPE TV PERU
@@ -666,8 +508,6 @@ http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/chunklist_w1345773
 http://45.55.127.106/live/unicanal_src.m3u8
 #EXTINF:-1,tv compus
 http://st2.worldkast.com/8004/8004/chunklist_w532150999.m3u8
-#EXTINF:-1,FOX NEWS 23 INTERNACIONALES
-http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1, Fashion Tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,Canal BHtv
