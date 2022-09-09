@@ -132,12 +132,6 @@ http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1, TV PERU
 http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1, Central TV Per&Atilde;&ordm;
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1, Wow TV (El Salvador)
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1, Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1, Portal FoxMix | HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1, La Mega Mundial (EU)
@@ -146,10 +140,6 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1, MUSICA:Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_wZoiper Click2Dial627639048ES.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1, CANAL WOW
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1, wowtv
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1, Tjumenskoe Vremja
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1, TRO Soyuz
@@ -172,136 +162,28 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1,Campus HD
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
-#EXTINF:-1,RecordTV Mozambique
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 #EXTINF:-1,TVN
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 #EXTINF:-1,Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,Channel 7
 http://radio.7chan.org:8000/CH7
-#EXTINF:-1,Comet TV (Geo)
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:-1,Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
 #EXTINF:-1,District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 #EXTINF:-1,Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1,TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1,TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1,TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1,KOMO 4 News (Seattle)
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1,La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
 #EXTINF:-1,Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Djing Animation
-http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1,Djing Classic
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1,Djing Ibiza
-http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1,Djing Karaoke
-http://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1,Djing TV
-http://www.djing.com/tv/live.m3u8
-#EXTINF:-1,Djing Underground
-http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1,Maxima Radio y Videos
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:-1, Esperanza TV
-http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Red Advenir
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1, Discovery Channel
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1, TV2 Bomholm (Dinamarca)
-http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1, Pop USA
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-#EXTINF:-1, 1 2 3 TV Germany
-http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1, MDF1 Alemania
 http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 #EXTINF:-1, AKC TV USA
 https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
-#EXTINF:-1, Space Canada
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1, My 99
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1, American Horror
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1,Ready TV Canal 6
-http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1,Kurt Cobain: Montage of Heck
-https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
-#EXTINF:-1,Globo dinho
-http://archive.org/download/IPTVPROPAGANDA720FINAL/IPTV%20PROPAGANDA%20720%20FINAL.mp4
-#EXTINF:-1,SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1,SBT CARUARU
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1,Catve HD
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?
-#EXTINF:-1,Grandes golpes
-http://archive.org/download/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5bHistory%20Channel%20HD%5d.mp4
-#EXTINF:-1,Filhos De Galileu
-http://archive.org/download/FilhosDeGalileuDocumentrio/Filhos%20de%20Galileu%20-%20Document%c3%a1rio.mp4
-#EXTINF:-1,Stephen Hawking e as Células-Tronco
-http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
-#EXTINF:-1,O Sentido Da Vida Stephen Hawking
-http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
-#EXTINF:-1,A HISTÓRIA DA TERRA
-http://archive.org/download/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TERRA%20-%20Dublado.mp4
-#EXTINF:-1,alem dos limites humanos - hipoxia
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
-#EXTINF:-1,alem dos limites humanos -frio
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
-#EXTINF:-1,alem dos limites humanos -tempo
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
-#EXTINF:-1,Telescópio O universo revelado
-http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
-#EXTINF:-1,Terceiro Reich: Ascensão
-http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
-#EXTINF:-1,Terceiro Reich: Queda
-http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
-#EXTINF:-1,HBO 2
-http://archive.org/download/54848441_201808/54848441.mp4
-#EXTINF:-1, Esses Três São um Número
-http://archive.org/download/tres_patetas/OsTr%C3%AAsPatetas002.mp4
-#EXTINF:-1,As Filhas Do Fogo (1978)
-http://archive.org/download/AsFilhasDoFogo1978/As%20Filhas%20do%20Fogo%201978.mp4
-#EXTINF:-1,Mil Novecentos e Oitenta e Quatro
-http://archive.org/download/Filme1984GeorgeOrwellDubladoConhecimentoEhPoderByN1ngGg3n/Filme%201984%20George%20Orwell%20-%20Dublado%20-%20ConhecimentoEhPoder%20-%20By%20N1ngGg3n%20.mp4
-#EXTINF:-1,A Saga Crepúsculo: Eclipse
-https://lh3.googleusercontent.com/gyxfQKIgjnH7SXyWEkoFwmhNJky07DztF8DukJ51EW8=m22
-#EXTINF:-1,HARRY POTTER E A ORDEM DA FENIX
-https://lh3.googleusercontent.com/B1Ej1DPPEGxtiuKS5WY0SZ6DSnlR4G-SI4FdO2zFYr3lWQxdZr3r-T3rvVEvsPK5GMTRy9IqgA=m22
-#EXTINF:-1,HARRY POTTER E O ENIGMA DO PRINCIPE
-https://lh3.googleusercontent.com/0Qm8dLYdbs8IeGPJ-eD02ppzV7yBxumYv17WX-sHMqy6Q1tUY-G56hF0A2V3NEESKTPsHcS6gg=m22
-#EXTINF:-1,HARRY POTTER E AS RELIQUIAS DA MORTE 1
-https://lh3.googleusercontent.com/P5l1a734bFEJg7Fq8JllWC4V8ucKJD-Scrq3LCCE8aYSsjnNWuaiejF3x9sSimuqo8957bnWxw=m22
-#EXTINF:-1,PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
-https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
-#EXTINF:-1,PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
-https://lh3.googleusercontent.com/GyCg_voT4IlupzejSV7M_UD2vVwO7ZllpjjiQwx1SJpKsu9VR6jHFy4StVl9EiXtqndGQrTPTg=m18
-#EXTINF:-1,PATRULHA CANINA 03 - OS FILHOTES E O TESOURO PIRATA
-https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemHlw1VfZE75GPXCjf7_1VAPTpCEFqA=m18
-#EXTINF:-1,PATRULHA CANINA 04 - OS FILHOTES E O TESOURO PIRATA
-https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
-#EXTINF:-1,Sobrenatural: Capítulo 2
-https://lh3.googleusercontent.com/XUxTUDrRkiiTv4p_nKDzpheM_K4cYN9SwtUuk-_-EDU=m22
-#EXTINF:-1,Jogos Mortais 3
-https://lh3.googleusercontent.com/MWfgFZHJQKIsnHKfktoCZTTzIrarnbkV-wCmxJnulZ1lfsds5Iy45-Sfv-4AR52FWoJT7LXm4z2MS439JhHjukBPmG7GJLPLQuavOnBTg-kGshUy9xvI_7RP1A42LSrSPFqZc9KU7w=m22
-#EXTINF:-1,Jogos Mortais 7: O Final
-https://lh3.googleusercontent.com/k2BZsc0mGPB-6cIinnCBPLxSshBqtuQGX265UWQNcnE9yG6rbVY8QJRvwbwo4dYqE_-EBMuP3JlFBLJOTi2QwA4zKG9X1N4NVzSlFu85cg2J4Afuy_Qw1VD3VsdcJQGBpfmFraGDeg=m22
 #EXTINF:-1, Tv Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1, Retro Music
@@ -312,18 +194,12 @@ http://rtmp.one.by:1200
 http://rtmp.one.by:1300
 #EXTINF:-1, ONE 4 HD
 http://rtmp.one.by:2300
-#EXTINF:-1, BLOOMBERG TV
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
-#EXTINF:-1, BLOOMBERG TV
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1, CAT TVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
 #EXTINF:-1, IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?
 #EXTINF:-1, SBT - PE | CARUARÃš
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?EDSONSOUSALIST
-#EXTINF:-1, SBT RJ
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1, TV CINEC
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
 #EXTINF:-1, TV DIÃRIO DO SERTÃƒO - PARAÃBA
@@ -342,24 +218,14 @@ http://tvvitoria.viacast.tv:80/livepl/tvvitoria_2_original.m3u8?LISTASDAGLAU
 http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8?LISTASDAGLAU
 #EXTINF:-1, TV MUNDIAL
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8?LISTASDAGLAU
-#EXTINF:-1, CAMERA PANDA AO VIVO 2
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8?LISTASGLAU
-#EXTINF:-1, CAMERA PANDA AO VIVO 3
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8?LISTASGLAU
 #EXTINF:-1, RetrÃ´
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
-#EXTINF:-1, Amazon Sat
-http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8
-#EXTINF:-1, TV Escola
-http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
 #EXTINF:-1, TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 #EXTINF:-1, Novo Tempo RS
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
 #EXTINF:-1, IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1, Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
 #EXTINF:-1, MusicTop HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1, FonteTV (GO)
@@ -368,32 +234,16 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 http://flash.softhost.com.br:1935/pucgoias/aovivo/playlist.m3u8
 #EXTINF:-1, TV Santa CecÃ­lia (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1, Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1, Novo Tempo SP
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?
 #EXTINF:-1, Novo Tempo RS
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?
-#EXTINF:-1, Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?
 #EXTINF:-1, SBT PE Interior
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
 #EXTINF:-1, Rede Brasil DE
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?
-#EXTINF:-1, Radio Number One TV
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8?CANALANDRONALTAS.ts
-#EXTINF:-1, Retro Music TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?CANALANDRONALTAS.ts
 #EXTINF:-1, RetrÃ´
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?CANALANDRONALTAS.ts
-#EXTINF:-1, SBT Vale
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1, TV JORNAL CARUARU
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1, TV Novo Tempo
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1, Rede Gospel
-http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8?Grupo_UP_e_DOWN
 #EXTINF:-1, Sobrenatural TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?CANALANDRONALTAS
 #EXTINF:-1, CATVE HD
@@ -402,8 +252,6 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?CANALANDRONALTAS
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8?CANALANDRONALTAS
 #EXTINF:-1, REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1, TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?CANALANDRONALTAS
 #EXTINF:-1, TVCOM MACEIÃ“
 http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8?CANALANDRONALTAS
 #EXTINF:-1, TV DESTAK
@@ -422,10 +270,6 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIA
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1, FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1, Rede Brasil De ComunicacÃ£o PE HD
-http://rbc.directradios.com:1935/rbc/rbc_720p/Playlist.m3u8
-#EXTINF:-1, Rede Brasil De ComunicacÃ£o PE SD
-http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
 #EXTINF:-1, Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1, TV Novo Tempo SP
